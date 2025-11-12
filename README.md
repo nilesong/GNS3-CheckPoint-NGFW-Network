@@ -1,4 +1,4 @@
-# 🛡️ Check Point NGFW (Gaia) GNS3 Homelab
+# 🛡️ Check Point NGFW (Gaia) GNS3 Network
 
 This repository contains the **Check Point Next Generation Firewall (NGFW)** setup running on **GNS3** using the **Checkpoint Gaia appliance**.  
 The purpose of this lab is to simulate a functional enterprise-grade firewall environment with **security blades**, **policy management**, and **threat prevention features** — all in a contained virtual lab environment.
