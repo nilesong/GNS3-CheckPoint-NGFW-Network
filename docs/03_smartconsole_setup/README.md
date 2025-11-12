@@ -34,7 +34,7 @@ This section covers setting up network objects, NAT, and security policies in **
      
      <img width="375" height="454" alt="LAN 2" src="https://github.com/user-attachments/assets/3807bac6-c373-439a-b279-23cab0ed875e" />
      
-   - `Management (Host)` → `192.168.1.0/24`
+   - `Management (Host)` → `192.168.1.98`
      
      <img width="1914" height="1034" alt="Management1" src="https://github.com/user-attachments/assets/7e14ea1e-46b1-4084-9b23-a39af3cb5489" />
      
