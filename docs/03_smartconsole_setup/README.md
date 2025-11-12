@@ -23,7 +23,7 @@ This section covers setting up network objects, NAT, and security policies in **
 
 <img width="763" height="702" alt="NAT" src="https://github.com/user-attachments/assets/34c9d505-93b5-49c6-afbc-5849783c202d" />
    
-3. Define Networks:
+3. Define Network & Hosts:
    - `LAN` → `eth2` → `192.168.0.0/24`
      
      <img width="1916" height="1040" alt="LAN 1" src="https://github.com/user-attachments/assets/da066e0b-86e9-4e11-9f76-4df631a33c98" />
