@@ -54,11 +54,8 @@ The setup portion is divided into three separate pages for clarity:
 Visit the EICAR test file to check Antivirus functionality:  
 [http://www.eicar.org/download/eicar_com.zip](http://www.eicar.org/download/eicar_com.zip)
 
-![EICAR file blocked](screenshots/testing/antivirus/eicar_blocked.png)  
-*Antivirus blocked the EICAR test file.*
 
-![EICAR log entry](screenshots/testing/antivirus/eicar_log.png)  
-*Log entry confirming the block.*
+*Antivirus blocked the EICAR test file.*
 
 ---
 
@@ -66,10 +63,9 @@ Visit the EICAR test file to check Antivirus functionality:
 Test Anti-Bot blade using the Check Point test page:  
 [http://sc1.checkpoint.com/za/images/threatwiki/pages/TestAntiBotBlade.html](http://sc1.checkpoint.com/za/images/threatwiki/pages/TestAntiBotBlade.html)
 
-![Anti-Bot test page](screenshots/testing/antibot/antibot_test_page.png)  
+<img width="1906" height="465" alt="Blocked Antibot" src="https://github.com/user-attachments/assets/44bfd939-402a-4c84-a58c-f99453b61d35" />
 *Anti-Bot blocked the test page*
-![Anti-Bot log](screenshots/testing/antibot/antibot_log.png)
-*Log entry confirming the block.*
+
 
 ---
 
@@ -80,10 +76,14 @@ Test access to blocked applications/websites:
 - Instagram: `https://instagram.com`  
 - X/Twitter: `https://x.com`
 
-![YouTube blocked](screenshots/testing/url_filter/youtube_block.png)
+<img width="1536" height="163" alt="Blocked Website" src="https://github.com/user-attachments/assets/29327165-0ed4-4cf7-bb20-b1aec28d5269" />
 *Website blocked*
-![Anti-Bot log](screenshots/testing/antibot/antibot_log.png)
-*Log entry confirming the block.*
+
+### Log Entries
+
+<img width="1569" height="529" alt="Blocked Website" src="https://github.com/user-attachments/assets/f061f6fe-7323-4333-acee-04e904383985" />
+
+*Log entries confirming the block.*
 
 ---
 
