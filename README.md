@@ -9,7 +9,7 @@ The purpose of this lab is to simulate a functional firewall environment with **
 
 1. This repository **only includes the `.gns3` topology file**.  
    Due to legal and licensing restrictions, **no Check Point backups or image files** will be provided.  
-2. Exporting full GNS3 projects is **not feasible** because of file size limitations that exceed GitHub’s upload limits.  
+2. Exporting full GNS3 project is **not feasible** because of file size limitations that exceed GitHub’s upload limits.  
 3. Instead, this repository provides:
    - The **topology overview**
    - **Step-by-step setup instructions**
