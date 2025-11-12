@@ -65,4 +65,4 @@ Once policies are installed and blades activated, the gateway will begin enforci
 
 ---
 
-[← Previous: GUI Configuration](../02_gui_configuration/README.md) • [Back to Main README](../README.md)
+[← Previous: GUI Configuration](../02_gui_configuration/README.md) • [Back to Main README](../)

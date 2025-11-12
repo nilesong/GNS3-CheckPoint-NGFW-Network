@@ -39,4 +39,4 @@ After reboot and setup completion, you should be able to reach the **Gaia Web Po
 
 ---
 
-[← Back to Main README](.../) • [Next → GUI Configuration](.../02_gui_configuration/README.md)
+[← Back to Main README](../) • [Next → GUI Configuration](../02_gui_configuration/README.md)
