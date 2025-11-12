@@ -32,7 +32,7 @@ This section covers the initial setup of the **Check Point Gaia appliance** insi
      
      <img width="638" height="449" alt="eth1" src="https://github.com/user-attachments/assets/db4fb479-d82b-4d07-9769-461bba15a4ea" />
 
-   - Choose **Security Gateway and/or Security Management** roles
+   - Choose **Security Gateway and/or Security Management**
      
      <img width="639" height="452" alt="Security Gateway-Security Management" src="https://github.com/user-attachments/assets/30229d06-ed74-46bc-bd29-23db924aa7a1" />
 
