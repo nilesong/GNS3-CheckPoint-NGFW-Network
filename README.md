@@ -93,5 +93,16 @@ Test access to blocked applications/websites:
 
 ---
 
-## 🗂️ Repository Structure
+## 👨‍💻 Author
 
+**[Your Name]**  
+GitHub: [@yourusername](https://github.com/yourusername)
+
+---
+
+## 🧱 License
+
+This project is intended solely for non-commercial testing and research purposes.
+All Check Point trademarks, names, and software are the property of Check Point Software Technologies Ltd.
+
+---
