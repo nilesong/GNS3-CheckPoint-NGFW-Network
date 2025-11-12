@@ -90,14 +90,14 @@ Test access to blocked applications/websites:
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
 **Neil Ong**  
 GitHub: [@nilesong](https://github.com/nilesong)
 
 ---
 
-## 🧱 License
+## 📄 License
 
 This project is intended solely for non-commercial testing and research purposes.
 All Check Point trademarks, names, and software are the property of Check Point Software Technologies Ltd.
