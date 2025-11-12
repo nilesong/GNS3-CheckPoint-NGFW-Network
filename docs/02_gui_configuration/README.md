@@ -1,6 +1,6 @@
-# 🧩 Step 2: Check Point GUI Configuration
-
 [← Previous: Initial Installation](../01_initial_installation) • [Back to Main README](../../) • [Next → SmartConsole Setup](../03_smartconsole_setup)
+
+# 🧩 Step 2: Check Point GUI Configuration
 
 This section details the interface and routing configuration performed in the **Gaia Web GUI** after the initial setup.
 
