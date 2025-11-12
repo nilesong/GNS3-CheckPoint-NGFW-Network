@@ -10,7 +10,7 @@ This section covers setting up network objects, NAT, and security policies in **
 
 1. Download and install **SmartConsole** from the Gaia Web GUI.  
 2. Open SmartConsole and connect to your management server (`192.168.1.99`).
-3. 
+   
    <img width="674" height="313" alt="SmartConsole" src="https://github.com/user-attachments/assets/80cd0eee-0046-47d4-b637-16c71b3448a2" />
 
 ---
