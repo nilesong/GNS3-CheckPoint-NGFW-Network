@@ -1,4 +1,4 @@
-[← Previous: Initial Installation](../01_initial_installation) • [Back to Main README](../../) • [Next: SmartConsole Setup →](../03_smartconsole_setup)
+[← Previous: Initial Installation](../01_initial_installation) • [Back to Main](../../) • [Next: SmartConsole Setup →](../03_smartconsole_setup)
 
 # 🧩 Step 2: Check Point GUI Configuration
 
@@ -47,4 +47,4 @@ The firewall should now have both **internal (LAN)** and **external (Internet)**
 
 ---
 
-[← Previous: Initial Installation](../01_initial_installation) • [Back to Main README](../../) • [Next: SmartConsole Setup →](../03_smartconsole_setup)
+[← Previous: Initial Installation](../01_initial_installation) • [Back to Main](../../) • [Next: SmartConsole Setup →](../03_smartconsole_setup)
