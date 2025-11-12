@@ -23,8 +23,7 @@ This section covers the initial setup of the **Check Point Gaia appliance** insi
 
    - Reboot
      
-3. From **Management-PC1**, open a browser and navigate to:  
-   `https://192.168.1.99`
+3. From **Management-PC1**, open a browser and navigate to: `https://192.168.1.99`
    
    <img width="638" height="448" alt="Browser" src="https://github.com/user-attachments/assets/7e89329c-02b6-40f9-a5ba-f7060cac4daf" />
 
