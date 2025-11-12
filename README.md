@@ -42,9 +42,9 @@ Set your DNS Server to the IP address of the NAT node (`192.168.122.1` in this s
 
 The setup portion is divided into three separate pages for clarity:
 
-1. [Step 1: Check Point Initial Installation](docs/01_initial_installation/README.md)  
-2. [Step 2: Check Point GUI Configuration](docs/02_gui_configuration/README.md)  
-3. [Step 3: SmartConsole Configuration](docs/03_smartconsole_setup/README.md)
+[Step 1: Check Point Initial Installation](docs/01_initial_installation/README.md)  
+[Step 2: Check Point GUI Configuration](docs/02_gui_configuration/README.md)  
+[Step 3: SmartConsole Configuration](docs/03_smartconsole_setup/README.md)
 
 ---
 
