@@ -17,7 +17,7 @@ This section covers setting up network objects, NAT, and security policies in **
 
 ### 🌐 Network & NAT Configuration
 
-1. Run **“Get Interfaces with Topology”** on your gateway.
+1. Run **“Get Interfaces With Topology”** on your gateway.
 
 <img width="765" height="703" alt="Interfaces" src="https://github.com/user-attachments/assets/544b85ad-ae2d-4039-8e26-91eb4361e058" />
 
