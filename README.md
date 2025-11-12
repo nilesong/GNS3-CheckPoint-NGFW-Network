@@ -59,6 +59,7 @@ The setup portion is divided into three separate pages for clarity:
 Visit the EICAR test file to check Antivirus functionality:  
 [http://www.eicar.org/download/eicar_com.zip](http://www.eicar.org/download/eicar_com.zip)
 
+<img width="358" height="86" alt="Blocked Antivirus Download" src="https://github.com/user-attachments/assets/19c2b805-9671-40dc-8506-17bef40fbb95" />
 
 *Antivirus blocked the EICAR test file.*
 
@@ -67,6 +68,8 @@ Visit the EICAR test file to check Antivirus functionality:
 ### Anti-Bot
 Test Anti-Bot blade using the Check Point test page:  
 [http://sc1.checkpoint.com/za/images/threatwiki/pages/TestAntiBotBlade.html](http://sc1.checkpoint.com/za/images/threatwiki/pages/TestAntiBotBlade.html)
+
+<img width="1906" height="465" alt="Blocked Antibot" src="https://github.com/user-attachments/assets/7421a670-85a8-45ef-8095-a86d261554a8" />
 
 *Antivirus/Anti-bot blocked page.*
 
