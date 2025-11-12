@@ -76,7 +76,8 @@ Test access to blocked applications/websites:
 - Instagram: `https://instagram.com`  
 - X/Twitter: `https://x.com`
 
-<img width="1536" height="163" alt="Blocked Website" src="https://github.com/user-attachments/assets/29327165-0ed4-4cf7-bb20-b1aec28d5269" />
+<img width="838" height="527" alt="Blocked Website" src="https://github.com/user-attachments/assets/5cf5fb90-67ae-4edc-9353-210ed01e5913" />
+
 *Website blocked*
 
 ### Log Entries
