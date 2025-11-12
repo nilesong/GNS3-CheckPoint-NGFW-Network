@@ -33,8 +33,7 @@ Ensure you have the following installed and configured before starting:
 
 <img width="775" height="775" alt="Topology" src="https://github.com/user-attachments/assets/03301711-2936-4f28-a702-9a745fbcc297" />
 
-Follow the IP addressing and connection layout as shown in the topology diagram.
-
+Follow the IP addressing and connection layout as shown in the topology diagram.<br>
 Set your DNS Server to the IP address of the NAT node (`192.168.122.1` in this setup).
 
 ---
@@ -68,7 +67,9 @@ Test Anti-Bot blade using the Check Point test page:
 [http://sc1.checkpoint.com/za/images/threatwiki/pages/TestAntiBotBlade.html](http://sc1.checkpoint.com/za/images/threatwiki/pages/TestAntiBotBlade.html)
 
 ![Anti-Bot test page](screenshots/testing/antibot/antibot_test_page.png)  
+*Anti-Bot blocked the test page*
 ![Anti-Bot log](screenshots/testing/antibot/antibot_log.png)
+*Log entry confirming the block.*
 
 ---
 
@@ -79,9 +80,10 @@ Test access to blocked applications/websites:
 - Instagram: `https://instagram.com`  
 - X/Twitter: `https://x.com`
 
-![YouTube blocked](screenshots/testing/url_filter/youtube_block.png)  
-![Instagram blocked](screenshots/testing/url_filter/instagram_block.png)  
-![Twitter blocked](screenshots/testing/url_filter/twitter_block.png)
+![YouTube blocked](screenshots/testing/url_filter/youtube_block.png)
+*Website blocked*
+![Anti-Bot log](screenshots/testing/antibot/antibot_log.png)
+*Log entry confirming the block.*
 
 ---
 
