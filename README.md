@@ -84,7 +84,7 @@ Test access to blocked applications/websites:
 
 ### Log Entries
 
-<img width="1569" height="529" alt="Blocked Website" src="https://github.com/user-attachments/assets/f061f6fe-7323-4333-acee-04e904383985" />
+<img width="1300" height="529" alt="Logging" src="https://github.com/user-attachments/assets/bbe7ebb4-06a3-46a1-991c-e61bd930774b" />
 
 *Log entries confirming the block.*
 
