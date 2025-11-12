@@ -45,8 +45,6 @@ This section covers setting up network objects, NAT, and security policies in **
 ### 🛡️ Security Policies
 
 1. Enable the following **Security Blades**:
-   <img width="763" height="703" alt="Enable Blades" src="https://github.com/user-attachments/assets/e6043378-7434-41da-b944-43f5bf357d59" />
-
    - Application Control  
    - URL Filtering  
    - IPS  
@@ -54,6 +52,8 @@ This section covers setting up network objects, NAT, and security policies in **
    - Anti-Virus  
    - Content Awareness  
    *(Note: Demo mode may limit full functionality)*
+   
+   <img width="763" height="703" alt="Enable Blades" src="https://github.com/user-attachments/assets/0de6e537-1d7a-4858-b6a4-76029dbed337" />
 
 2. Add blades to your main policy filter.
    
