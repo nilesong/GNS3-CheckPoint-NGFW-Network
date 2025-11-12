@@ -53,7 +53,7 @@ This section covers setting up network objects, NAT, and security policies in **
    - Anti-Bot  
    - Anti-Virus  
    - Content Awareness  
-   *(Note: Demo mode may limit full functionality)*<br>
+   *(Note: Check Point trial mode/evaluation license may limit full functionality)*<br>
    <br>
    <img width="763" height="703" alt="Enable Blades" src="https://github.com/user-attachments/assets/0de6e537-1d7a-4858-b6a4-76029dbed337" />
 
