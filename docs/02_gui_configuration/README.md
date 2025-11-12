@@ -28,7 +28,7 @@ This section details the interface and routing configuration performed in the **
 
 ### 🧭 Default Route
 
-1. Go to **Network Management → Routing → Static Routes**.
+1. Go to **Network Management → IPv4 Static Routes**.
    
    <img width="1245" height="428" alt="Default Route 1" src="https://github.com/user-attachments/assets/23344591-7658-471e-b244-218e6d3f98c4" />
 
