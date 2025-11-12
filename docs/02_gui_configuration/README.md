@@ -29,6 +29,7 @@ This section details the interface and routing configuration performed in the **
 ### 🧭 Default Route
 
 1. Go to **Network Management → Routing → Static Routes**.
+   
    <img width="1245" height="428" alt="Default Route 1" src="https://github.com/user-attachments/assets/23344591-7658-471e-b244-218e6d3f98c4" />
 
 2. Add default route:
@@ -42,7 +43,7 @@ This section details the interface and routing configuration performed in the **
 
 ### ✅ Result
 
-The firewall should now have both **internal (LAN)** and **external (Internet)** connectivity, ready for policy setup in SmartConsole.
+The firewall should now have both **internal (LAN)** and **external (Internet)** interfaces setup, ready for policy setup in SmartConsole.
 
 ---
 
