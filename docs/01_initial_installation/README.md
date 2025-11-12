@@ -10,7 +10,7 @@ This section covers the initial setup of the **Check Point Gaia appliance** insi
 
 1. Power on the **Check Point appliance** in GNS3.
    
-   <img width="641" height="535" alt="Screenshot 2025-11-12 005625" src="https://github.com/user-attachments/assets/9c633403-56bd-4519-bee8-2ea4a3c667af" />
+      <img width="641" height="535" alt="Screenshot 2025-11-12 005625" src="https://github.com/user-attachments/assets/9c633403-56bd-4519-bee8-2ea4a3c667af" />
 
 3. Follow the on-screen installation prompts:
    - Set admin password → `adminpassword1234`
