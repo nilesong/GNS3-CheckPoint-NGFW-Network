@@ -48,15 +48,37 @@ The setup portion is divided into three separate pages for clarity:
 
 ## 🧪 Testing & Verification
 
-Use the following URLs to test the NGFW’s protection and policy enforcement:  
+### Antivirus
+Visit the EICAR test file to check Antivirus functionality:  
+[http://www.eicar.org/download/eicar_com.zip](http://www.eicar.org/download/eicar_com.zip)
 
-| Category | Test URL | Expected Result |
-|-----------|-----------|----------------|
-| **Antivirus** | [EICAR Test File](http://www.eicar.org/download/eicar_com.zip) | File blocked / alert logged |
-| **Anti-Bot** | [Test Anti-Bot Blade](http://sc1.checkpoint.com/za/images/threatwiki/pages/TestAntiBotBlade.html) | Anti-Bot alert triggered |
-| **Application & URL Filtering** | [YouTube](https://youtube.com) <br> [Instagram](https://instagram.com) <br> [X/Twitter](https://x.com) | Access blocked per policy, logs recorded |
+![EICAR file blocked](screenshots/testing/antivirus/eicar_blocked.png)  
+*Antivirus blocked the EICAR test file.*
 
-📸 *(Screenshots: test_antivirus.png, test_antibot.png, test_urlfilter.png)*
+![EICAR log entry](screenshots/testing/antivirus/eicar_log.png)  
+*Log entry confirming the block.*
+
+---
+
+### Anti-Bot
+Test Anti-Bot blade using the Check Point test page:  
+[http://sc1.checkpoint.com/za/images/threatwiki/pages/TestAntiBotBlade.html](http://sc1.checkpoint.com/za/images/threatwiki/pages/TestAntiBotBlade.html)
+
+![Anti-Bot test page](screenshots/testing/antibot/antibot_test_page.png)  
+![Anti-Bot log](screenshots/testing/antibot/antibot_log.png)
+
+---
+
+### Application & URL Filtering
+Test access to blocked applications/websites:
+
+- YouTube: `https://youtube.com`  
+- Instagram: `https://instagram.com`  
+- X/Twitter: `https://x.com`
+
+![YouTube blocked](screenshots/testing/url_filter/youtube_block.png)  
+![Instagram blocked](screenshots/testing/url_filter/instagram_block.png)  
+![Twitter blocked](screenshots/testing/url_filter/twitter_block.png)
 
 ---
 
