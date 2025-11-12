@@ -24,7 +24,7 @@ This section covers setting up network objects, NAT, and security policies in **
 <img width="763" height="702" alt="NAT" src="https://github.com/user-attachments/assets/34c9d505-93b5-49c6-afbc-5849783c202d" />
    
 3. Define Network & Hosts:
-   - `LAN` → `eth2` → `192.168.0.0/24`
+   - `LAN (Network)` → `eth2` → `192.168.0.0/24`
      
      <img width="1916" height="1040" alt="LAN 1" src="https://github.com/user-attachments/assets/da066e0b-86e9-4e11-9f76-4df631a33c98" />
      
@@ -32,7 +32,7 @@ This section covers setting up network objects, NAT, and security policies in **
      
      <img width="375" height="454" alt="LAN 2" src="https://github.com/user-attachments/assets/3807bac6-c373-439a-b279-23cab0ed875e" />
      
-   - `Management` → `192.168.1.0/24`
+   - `Management (Host)` → `192.168.1.0/24`
      
      <img width="1914" height="1034" alt="Management1" src="https://github.com/user-attachments/assets/7e14ea1e-46b1-4084-9b23-a39af3cb5489" />
      
