@@ -59,10 +59,6 @@ The setup portion is divided into three separate pages for clarity:
 Visit the EICAR test file to check Antivirus functionality:  
 [http://www.eicar.org/download/eicar_com.zip](http://www.eicar.org/download/eicar_com.zip)
 
-<img width="358" height="86" alt="Blocked Antivirus Download" src="https://github.com/user-attachments/assets/19c2b805-9671-40dc-8506-17bef40fbb95" />
-
-*Antivirus blocked the EICAR test file.*
-
 ---
 
 ### Anti-Bot
