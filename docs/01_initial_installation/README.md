@@ -1,4 +1,4 @@
-[← Back to Main README](../../) • [Next → GUI Configuration](../02_gui_configuration)
+[← Back to Main README](../../) • [Next: GUI Configuration →](../02_gui_configuration)
 
 # 🧩 Step 1: Check Point Initial Installation
 
@@ -44,4 +44,4 @@ After reboot and setup completion, you should be able to reach the **Gaia Web Po
 
 ---
 
-[← Back to Main README](../../) • [Next → GUI Configuration](../02_gui_configuration)
+[← Back to Main README](../../) • [Next: GUI Configuration →](../02_gui_configuration)
