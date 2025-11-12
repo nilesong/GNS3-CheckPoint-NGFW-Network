@@ -1,0 +1,7 @@
+GNS3 Appliances:
+AAA
+Toolbox
+Windows: MSEdge-Win10-VMware-disk1.vmdk
+Firefox: linux-tinycore-linux-6.4-firefox-33.1.1-2.img
+Ubuntu Desktop Guest: Ubuntu 24.04 (64bit).vmdk
+Checkpoint GAiA: Check_Point_R80.10_T479_Gaia.iso
