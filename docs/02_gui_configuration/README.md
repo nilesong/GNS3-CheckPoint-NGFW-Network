@@ -43,4 +43,4 @@ The firewall should now have both **internal (LAN)** and **external (Internet)**
 
 ---
 
-[← Previous: Initial Installation](01_initial_installation.md) • [Back to Main README](../README.md) • [Next → SmartConsole Setup](03_smartconsole_setup.md)
+[← Previous: Initial Installation](../01_initial_installation/README.md) • [Back to Main README](../) • [Next → SmartConsole Setup](../03_smartconsole_setup/README.md)
