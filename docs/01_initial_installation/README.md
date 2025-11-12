@@ -1,6 +1,6 @@
 # 🧩 Step 1: Check Point Initial Installation
 
-[← Back to Main README](../README.md) • [Next → GUI Configuration](02_gui_configuration.md)
+[← Back to Main README](../README.md) • [Next → GUI Configuration](../02_gui_configuration/README.md)
 
 This section covers the initial setup of the **Check Point Gaia appliance** inside your GNS3 topology.
 
