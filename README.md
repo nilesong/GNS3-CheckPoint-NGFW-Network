@@ -53,7 +53,7 @@ The setup portion is divided into three separate pages for clarity:
 
 ---
 
-## 🧪 Testing & Verification
+## 💻 Testing & Verification
 
 ### Antivirus
 Visit the EICAR test file to check Antivirus functionality:  
