@@ -1,5 +1,7 @@
 # 🧩 Step 2: Check Point GUI Configuration
 
+[← Previous: Initial Installation](01_initial_installation.md) • [Back to Main README](../README.md) • [Next → SmartConsole Setup](03_smartconsole_setup.md)
+
 This section details the interface and routing configuration performed in the **Gaia Web GUI** after the initial setup.
 
 ---
@@ -38,3 +40,7 @@ This section details the interface and routing configuration performed in the **
 ### ✅ Result
 
 The firewall should now have both **internal (LAN)** and **external (Internet)** connectivity, ready for policy setup in SmartConsole.
+
+---
+
+[← Previous: Initial Installation](01_initial_installation.md) • [Back to Main README](../README.md) • [Next → SmartConsole Setup](03_smartconsole_setup.md)

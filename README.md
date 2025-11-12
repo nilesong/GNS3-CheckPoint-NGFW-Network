@@ -1,6 +1,6 @@
 # 🛡️ Check Point NGFW (Gaia) GNS3 Homelab
 
-This repository contains the **Check Point Next Generation Firewall (NGFW)** homelab setup running on **GNS3** using the **Checkpoint Gaia appliance**.  
+This repository contains the **Check Point Next Generation Firewall (NGFW)** setup running on **GNS3** using the **Checkpoint Gaia appliance**.  
 The purpose of this lab is to simulate a functional enterprise-grade firewall environment with **security blades**, **policy management**, and **threat prevention features** — all in a contained virtual lab environment.
 
 ---
@@ -22,8 +22,8 @@ The purpose of this lab is to simulate a functional enterprise-grade firewall en
 Ensure you have the following installed and configured before starting:
 
 1. **[GNS3](https://www.gns3.com/software/download)**  
-2. **GNS3 VM** (running on **VMWare Workstation** or **VMWare Fusion**)  
-3. **GNS3 appliances and images** — see `requirements.txt` for all required appliances and image versions  
+2. **[GNS3 VM](https://www.gns3.com/software/download-vm)** (running on **VMWare Workstation** or **VMWare Fusion**)  
+3. **GNS3 appliances and images** — see [`requirements.txt`](./requirements.txt) for all required appliances and image versions  
 
 ---
 
@@ -31,8 +31,8 @@ Ensure you have the following installed and configured before starting:
 
 ### Topology & IP Addressing
 
-Follow the IP addressing based on the topology diagram 
-Your **DNS Server** should point to your **NAT node** — `192.168.122.1` in this setup.
+Follow the IP addressing and connection layout as shown in the topology diagram.
+Set your DNS Server to the IP address of the NAT node (`192.168.122.1` in this setup).
 
 ---
 
@@ -40,9 +40,9 @@ Your **DNS Server** should point to your **NAT node** — `192.168.122.1` in thi
 
 The setup portion is divided into three separate pages for clarity:
 
-1. [Step 1: Check Point Initial Installation →](docs/01_initial_installation/README.md)  
-2. [Step 2: Check Point GUI Configuration →](docs/02_gui_configuration/README.md)  
-3. [Step 3: SmartConsole Configuration →](docs/03_smartconsole_setup/README.md)
+1. [Step 1: Check Point Initial Installation](docs/01_initial_installation/README.md)  
+2. [Step 2: Check Point GUI Configuration](docs/02_gui_configuration/README.md)  
+3. [Step 3: SmartConsole Configuration](docs/03_smartconsole_setup/README.md)
 
 ---
 

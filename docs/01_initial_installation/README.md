@@ -1,5 +1,7 @@
 # 🧩 Step 1: Check Point Initial Installation
 
+[← Back to Main README](../README.md) • [Next → GUI Configuration](02_gui_configuration.md)
+
 This section covers the initial setup of the **Check Point Gaia appliance** inside your GNS3 topology.
 
 ---
@@ -34,3 +36,7 @@ This section covers the initial setup of the **Check Point Gaia appliance** insi
 ### ✅ Result
 
 After reboot and setup completion, you should be able to reach the **Gaia Web Portal** via `https://192.168.1.99` and log in with your admin credentials.
+
+---
+
+[← Back to Main README](../README.md) • [Next → GUI Configuration](02_gui_configuration.md)
