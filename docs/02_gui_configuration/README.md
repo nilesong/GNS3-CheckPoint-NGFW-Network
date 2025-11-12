@@ -14,7 +14,7 @@ This section details the interface and routing configuration performed in the **
    <img width="1612" height="509" alt="Interfaces" src="https://github.com/user-attachments/assets/113d1833-e1b6-4195-b3cf-00927ecaf3ca" />
 
 3. Configure:
-   - **eth1** → Obtain IPv4 automatically (DHCP)
+   - **eth1** → Obtain IPv4 address automatically (DHCP)
      
      <img width="461" height="372" alt="eth1" src="https://github.com/user-attachments/assets/41424458-894c-4122-8189-777aaf7c80aa" />
 
