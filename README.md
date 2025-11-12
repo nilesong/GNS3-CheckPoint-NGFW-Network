@@ -34,6 +34,7 @@ Ensure you have the following installed and configured before starting:
 <img width="775" height="775" alt="Topology" src="https://github.com/user-attachments/assets/03301711-2936-4f28-a702-9a745fbcc297" />
 
 Follow the IP addressing and connection layout as shown in the topology diagram.
+
 Set your DNS Server to the IP address of the NAT node (`192.168.122.1` in this setup).
 
 ---
