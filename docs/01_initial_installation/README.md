@@ -12,9 +12,6 @@ This section covers the initial setup of the **Check Point Gaia appliance** insi
 
    <img width="641" height="535" alt="Screenshot 2025-11-12 005625" src="https://github.com/user-attachments/assets/9c633403-56bd-4519-bee8-2ea4a3c667af" />
 
-      <img width="641" height="535" alt="Installation" src="https://github.com/user-attachments/assets/d7d2765e-7b84-46ad-88e2-d9b3fc6c20d5" />
-
-
 3. Follow the on-screen installation prompts:
    - Set admin password → `adminpassword1234`
      
