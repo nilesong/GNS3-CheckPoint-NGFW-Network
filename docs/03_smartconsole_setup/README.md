@@ -1,6 +1,6 @@
-# 🧩 Step 3: SmartConsole Configuration
-
 [← Previous: GUI Configuration](../02_gui_configuration) • [Back to Main README](../../)
+
+# 🧩 Step 3: SmartConsole Configuration
 
 This section covers setting up network objects, NAT, and security policies in **Check Point SmartConsole**.
 
