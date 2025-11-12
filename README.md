@@ -29,6 +29,11 @@ Ensure you have the following installed and configured before starting:
 
 ## ⚙️ Setup
 
+> **Before you begin:**  
+> Open the **`CheckPoint-NGFW.gns3`** file in GNS3.  
+> This is the base project file containing the full topology layout.  
+> All configuration steps below assume you have this project opened and running.
+
 ### Topology & IP Addressing
 
 <img width="683" height="683" alt="Topology" src="https://github.com/user-attachments/assets/4e6f7622-40c5-4b8d-9cc0-c079581bd768" />
