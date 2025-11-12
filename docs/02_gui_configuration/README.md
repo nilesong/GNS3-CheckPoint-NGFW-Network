@@ -37,7 +37,7 @@ This section details the interface and routing configuration performed in the **
      
      <img width="423" height="562" alt="Default Route 2" src="https://github.com/user-attachments/assets/6302304e-8275-4cd6-a3f7-f5702704795b" />
 
-3. Click **Apply** to save changes.
+3. Click **Save** to apply changes.
 
 ---
 
