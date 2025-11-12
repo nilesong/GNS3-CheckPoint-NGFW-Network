@@ -18,11 +18,11 @@ This section covers setting up network objects, NAT, and security policies in **
 1. Run **“Get Interfaces with Topology”** on your gateway.
 
 <img width="765" height="703" alt="Interfaces" src="https://github.com/user-attachments/assets/544b85ad-ae2d-4039-8e26-91eb4361e058" />
-   
+<br>
 2. Enable **NAT**.
 
 <img width="763" height="702" alt="NAT" src="https://github.com/user-attachments/assets/34c9d505-93b5-49c6-afbc-5849783c202d" />
-   
+<br>
 3. Define Network & Hosts:
    - `LAN (Network)` → `eth2` → `192.168.0.0/24`
      
@@ -52,7 +52,7 @@ This section covers setting up network objects, NAT, and security policies in **
    - Anti-Virus  
    - Content Awareness  
    *(Note: Demo mode may limit full functionality)*<br>
-   
+   <br>
    <img width="763" height="703" alt="Enable Blades" src="https://github.com/user-attachments/assets/0de6e537-1d7a-4858-b6a4-76029dbed337" />
 
 2. Add blades to your main policy filter.
