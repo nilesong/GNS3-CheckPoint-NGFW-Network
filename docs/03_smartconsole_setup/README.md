@@ -1,6 +1,6 @@
 # 🧩 Step 3: SmartConsole Configuration
 
-[← Previous: GUI Configuration](02_gui_configuration.md) • [Back to Main README](../README.md)
+[← Previous: GUI Configuration](../02_gui_configuration) • [Back to Main README](../../)
 
 This section covers setting up network objects, NAT, and security policies in **Check Point SmartConsole**.
 
@@ -65,4 +65,4 @@ Once policies are installed and blades activated, the gateway will begin enforci
 
 ---
 
-[← Previous: GUI Configuration](../02_gui_configuration/README.md) • [Back to Main README](../)
+[← Previous: GUI Configuration](../02_gui_configuration) • [Back to Main README](../../)
