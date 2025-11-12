@@ -12,7 +12,7 @@ This section covers the initial setup of the **Check Point Gaia appliance** insi
 
    <img width="641" height="535" alt="Screenshot 2025-11-12 005625" src="https://github.com/user-attachments/assets/9c633403-56bd-4519-bee8-2ea4a3c667af" />
 
-3. Follow the on-screen installation prompts:
+2. Follow the on-screen installation prompts:
    - Set admin password → `adminpassword1234`
      
      <img width="719" height="458" alt="Password" src="https://github.com/user-attachments/assets/c681b5d3-11e2-4460-a07f-cbef6e70b155" />
@@ -21,13 +21,14 @@ This section covers the initial setup of the **Check Point Gaia appliance** insi
      
      <img width="721" height="457" alt="IP Address" src="https://github.com/user-attachments/assets/fb30b84c-3b84-4b56-af34-e79c1b0fe463" />
 
-   - Reboot  
-4. From **Management-PC1**, open a browser and navigate to:  
+   - Reboot
+     
+3. From **Management-PC1**, open a browser and navigate to:  
    `https://192.168.1.99`
    
    <img width="638" height="448" alt="Browser" src="https://github.com/user-attachments/assets/7e89329c-02b6-40f9-a5ba-f7060cac4daf" />
 
-6. Complete the **First Time Setup Wizard**:
+4. Complete the **First Time Setup Wizard**:
    - Assign `eth1` as **Internet**
      
      <img width="638" height="449" alt="eth1" src="https://github.com/user-attachments/assets/db4fb479-d82b-4d07-9769-461bba15a4ea" />
