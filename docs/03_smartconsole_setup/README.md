@@ -1,4 +1,4 @@
-[← Previous: GUI Configuration](../02_gui_configuration) • [Back to Main README](../../)
+[← Previous: GUI Configuration](../02_gui_configuration) • [Back to Main](../../)
 
 # 🧩 Step 3: SmartConsole Configuration
 
@@ -94,4 +94,4 @@ Once policies are installed and the security blades are activated, the gateway w
 
 ---
 
-[← Previous: GUI Configuration](../02_gui_configuration) • [Back to Main README](../../)
+[← Previous: GUI Configuration](../02_gui_configuration) • [Back to Main](../../)
