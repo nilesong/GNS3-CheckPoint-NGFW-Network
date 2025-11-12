@@ -69,7 +69,7 @@ Visit the EICAR test file to check Antivirus functionality:
 Test Anti-Bot blade using the Check Point test page:  
 [http://sc1.checkpoint.com/za/images/threatwiki/pages/TestAntiBotBlade.html](http://sc1.checkpoint.com/za/images/threatwiki/pages/TestAntiBotBlade.html)
 
-<img width="1906" height="465" alt="Blocked Antibot" src="https://github.com/user-attachments/assets/7421a670-85a8-45ef-8095-a86d261554a8" />
+<img width="838" height="465" alt="Blocked Antibot 1" src="https://github.com/user-attachments/assets/b8b661a3-71b6-4430-b424-7b6f242645b7" />
 
 *Antivirus/Anti-bot blocked page.*
 
